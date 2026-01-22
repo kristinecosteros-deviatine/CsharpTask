@@ -2,8 +2,9 @@
 {
      static void Main(string[] args)
     {
-    
-        Task2.Run(); //RUN Task2
+        // This line prints "Kamusta Mundo"
+        Console.WriteLine("Kamusta Mundo");
+        
         
         
     }
