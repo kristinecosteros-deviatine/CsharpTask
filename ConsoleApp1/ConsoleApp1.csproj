@@ -5,7 +5,8 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Task2</StartupObject>
+    <StartupObject>ConsoleApp1.Task3.cs</StartupObject>
+    <StartupObject></StartupObject>
   </PropertyGroup>
 
 </Project>

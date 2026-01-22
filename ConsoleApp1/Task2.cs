@@ -1,9 +1,8 @@
 ﻿using System; 
 class Task2
-{
-    static void Main(string[]args)
     {
-  
+       public static void Run()
+  {
       //Row 0 even numbers
       //Row 1 odd numbers
       int[][] numberMatrix = new int[][]
