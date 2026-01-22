@@ -1,11 +1,8 @@
-﻿class task1
+﻿class Program
 {
-     static void Main(string[] args)
+    static void Main()
     {
-        // This line prints "Kamusta Mundo"
-        Console.WriteLine("Kamusta Mundo");
-        
-        
+        Task2.Run();//RUN Task2
         
     }
 }
