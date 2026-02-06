@@ -1,6 +1,6 @@
  class Task4
 {
-    public static void Run()
+    public static void Main(string[]args)
     {
         string again = "Y";
 

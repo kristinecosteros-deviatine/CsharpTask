@@ -1,7 +1,7 @@
 ﻿using System; 
 class Task2
     {
-       public static void Run()
+       public static void Main(string[]args)
   {
       //Row 0 even numbers
       //Row 1 odd numbers

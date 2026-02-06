@@ -2,7 +2,7 @@ using System;
 
 class Task3
 {
-    public static void Run()
+    public static void Main(string[]args)
     {
         int[] numbers = { 3, 7, 12, 19, 21, 25, 30 };
         Console.Write("Enter a Number: ");
